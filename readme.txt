@@ -1,4 +1,4 @@
-=== Hello Elementor Child ===
+=== おはようElementor Child ===
 
 Contributors: elemntor
 Requires at least: 5.9
